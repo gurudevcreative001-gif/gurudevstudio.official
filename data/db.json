@@ -1,0 +1,301 @@
+{
+  "services": [
+    {
+      "id": "srv-1",
+      "name": "Instagram Reel Editing",
+      "gujaratiName": "Instagram Reel Editing — ₹100 થી",
+      "category": "reels",
+      "description": "Fast-paced cuts, trendy beat transitions, Gujarati/Hindi subtitles, color grade, and sound design.",
+      "price": 100,
+      "isStartingPrice": true,
+      "enabled": true,
+      "badge": "Popular",
+      "createdAt": "2026-10-21T17:10:40.191Z",
+      "updatedAt": "2026-10-21T17:10:40.191Z"
+    },
+    {
+      "id": "srv-2",
+      "name": "Trending Reel Editing",
+      "gujaratiName": "Trending Reel Editing — ₹150 થી",
+      "category": "reels",
+      "description": "High-retention viral editing with motion graphics, zoom hooks, sound effects, and 4K Instagram export.",
+      "price": 150,
+      "isStartingPrice": true,
+      "enabled": true,
+      "badge": "Trending",
+      "createdAt": "2026-10-21T17:10:40.191Z",
+      "updatedAt": "2026-10-21T17:10:40.191Z"
+    },
+    {
+      "id": "srv-3",
+      "name": "YouTube Shorts Editing",
+      "gujaratiName": "YouTube Shorts Editing — ₹150 થી",
+      "category": "reels",
+      "description": "Vertical 9:16 optimized for YouTube algorithm with animated captions, emoji popups, and hook retention.",
+      "price": 150,
+      "isStartingPrice": true,
+      "enabled": true,
+      "createdAt": "2026-10-21T17:10:40.191Z",
+      "updatedAt": "2026-10-21T17:10:40.191Z"
+    },
+    {
+      "id": "srv-4",
+      "name": "YouTube Video Editing",
+      "gujaratiName": "YouTube Video Editing — ₹499 થી",
+      "category": "long_form",
+      "description": "Long-form vlogs, tutorials, podcasts, and interviews. Multi-cam sync, B-roll insertion, and cinematic audio mastering.",
+      "price": 499,
+      "isStartingPrice": true,
+      "enabled": true,
+      "badge": "Best Value",
+      "createdAt": "2026-10-21T17:10:40.191Z",
+      "updatedAt": "2026-10-21T17:10:40.191Z"
+    },
+    {
+      "id": "srv-5",
+      "name": "Birthday Video",
+      "gujaratiName": "Birthday Video — ₹299 થી",
+      "category": "celebration",
+      "description": "Heartfelt birthday video with photos, family wishes, Gujarati/Bollywood birthday music, and celebration animations.",
+      "price": 299,
+      "isStartingPrice": true,
+      "enabled": true,
+      "createdAt": "2026-10-21T17:10:40.191Z",
+      "updatedAt": "2026-10-21T17:10:40.191Z"
+    },
+    {
+      "id": "srv-6",
+      "name": "Special Birthday Video",
+      "gujaratiName": "Special Birthday Video — ₹499 થી",
+      "category": "celebration",
+      "description": "Cinematic birthday film with 3D photo effects, custom voiceover narration, family tribute quotes, and 4K render.",
+      "price": 499,
+      "isStartingPrice": true,
+      "enabled": true,
+      "createdAt": "2026-10-21T17:10:40.191Z",
+      "updatedAt": "2026-10-21T17:10:40.191Z"
+    },
+    {
+      "id": "srv-7",
+      "name": "Wedding Highlight",
+      "gujaratiName": "Wedding Highlight — ₹999 થી",
+      "category": "celebration",
+      "description": "Cinematic teaser and highlight video of Gujarati wedding rituals: Mandap, Barat, Jaimala, and Vidai with royal grade.",
+      "price": 999,
+      "isStartingPrice": true,
+      "enabled": true,
+      "badge": "Cinematic",
+      "createdAt": "2026-10-21T17:10:40.191Z",
+      "updatedAt": "2026-10-21T17:10:40.191Z"
+    },
+    {
+      "id": "srv-8",
+      "name": "Pre-Wedding Video",
+      "gujaratiName": "Pre-Wedding Video — ₹999 થી",
+      "category": "celebration",
+      "description": "Romantic couple music video teaser with cinematic color LUTs, drone shot integration, and romantic titles.",
+      "price": 999,
+      "isStartingPrice": true,
+      "enabled": true,
+      "createdAt": "2026-10-21T17:10:40.191Z",
+      "updatedAt": "2026-10-21T17:10:40.191Z"
+    },
+    {
+      "id": "srv-9",
+      "name": "Anniversary Video",
+      "gujaratiName": "Anniversary Video — ₹399 થી",
+      "category": "celebration",
+      "description": "Couple journey video, milestone anniversary wishes, romantic music montage, and memories slideshow.",
+      "price": 399,
+      "isStartingPrice": true,
+      "enabled": true,
+      "createdAt": "2026-10-21T17:10:40.191Z",
+      "updatedAt": "2026-10-21T17:10:40.191Z"
+    },
+    {
+      "id": "srv-10",
+      "name": "Devotional / Temple Promotion",
+      "gujaratiName": "Devotional / Temple Promotion — ₹150 થી",
+      "category": "business",
+      "description": "Spiritual reels, temple aarti status, bhajan edits, satsang & religious event promo with divine visual effects.",
+      "price": 150,
+      "isStartingPrice": true,
+      "enabled": true,
+      "createdAt": "2026-10-21T17:10:40.191Z",
+      "updatedAt": "2026-10-21T17:10:40.191Z"
+    },
+    {
+      "id": "srv-11",
+      "name": "Shop / Business Promotion",
+      "gujaratiName": "Shop / Business Promotion — ₹199 થી",
+      "category": "business",
+      "description": "Local store opening, jewellery, clothing, food business promotional reel with phone number, address, and offer callout.",
+      "price": 199,
+      "isStartingPrice": true,
+      "enabled": true,
+      "badge": "Local Business",
+      "createdAt": "2026-10-21T17:10:40.191Z",
+      "updatedAt": "2026-10-21T17:10:40.191Z"
+    },
+    {
+      "id": "srv-12",
+      "name": "Photo Slideshow Video",
+      "gujaratiName": "Photo Slideshow Video — ₹199 થી",
+      "category": "celebration",
+      "description": "Clean modern photo transition montage with background song, lyrics captions, and elegant photo frames.",
+      "price": 199,
+      "isStartingPrice": true,
+      "enabled": true,
+      "createdAt": "2026-10-21T17:10:40.191Z",
+      "updatedAt": "2026-10-21T17:10:40.191Z"
+    },
+    {
+      "id": "srv-13",
+      "name": "YouTube Thumbnail",
+      "gujaratiName": "YouTube Thumbnail — ₹100 થી",
+      "category": "graphic_design",
+      "description": "High-CTR click-worthy thumbnail design with custom face cutout, bold Gujarati/Hindi typography, and bright contrast.",
+      "price": 100,
+      "isStartingPrice": true,
+      "enabled": true,
+      "createdAt": "2026-10-21T17:10:40.191Z",
+      "updatedAt": "2026-10-21T17:10:40.191Z"
+    },
+    {
+      "id": "srv-14",
+      "name": "Instagram Post Design",
+      "gujaratiName": "Instagram Post Design — ₹100 થી",
+      "category": "graphic_design",
+      "description": "Creative square/portrait graphics for Instagram feed, personal branding, business offers, and carousel posts.",
+      "price": 100,
+      "isStartingPrice": true,
+      "enabled": true,
+      "createdAt": "2026-10-21T17:10:40.191Z",
+      "updatedAt": "2026-10-21T17:10:40.191Z"
+    },
+    {
+      "id": "srv-15",
+      "name": "Festival Poster Design",
+      "gujaratiName": "Festival Poster Design — ₹150 થી",
+      "category": "graphic_design",
+      "description": "Diwali, Navratri, Janmashtami, Uttarayan, New Year greeting banners customized with your photo, name, and company logo.",
+      "price": 150,
+      "isStartingPrice": true,
+      "enabled": true,
+      "badge": "Festivals",
+      "createdAt": "2026-10-21T17:10:40.191Z",
+      "updatedAt": "2026-10-21T17:10:40.191Z"
+    },
+    {
+      "id": "srv-16",
+      "name": "Logo Design",
+      "gujaratiName": "Logo Design — ₹300 થી",
+      "category": "graphic_design",
+      "description": "Custom brand logo, studio watermark, calligraphy identity with transparent PNG and vector source files.",
+      "price": 300,
+      "isStartingPrice": true,
+      "enabled": true,
+      "createdAt": "2026-10-21T17:10:40.191Z",
+      "updatedAt": "2026-10-21T17:10:40.191Z"
+    },
+    {
+      "id": "srv-17",
+      "name": "Invitation Card Design",
+      "gujaratiName": "Invitation Card Design — ₹200 થી",
+      "category": "graphic_design",
+      "description": "Digital Gujarati Kankotri, wedding invite, birthday e-card with WhatsApp shareable high-resolution format.",
+      "price": 200,
+      "isStartingPrice": true,
+      "enabled": true,
+      "createdAt": "2026-10-21T17:10:40.191Z",
+      "updatedAt": "2026-10-21T17:10:40.191Z"
+    },
+    {
+      "id": "srv-18",
+      "name": "Banner Design",
+      "gujaratiName": "Banner Design — ₹250 થી",
+      "category": "graphic_design",
+      "description": "Social media header, YouTube banner, hoarding design, or shop flex banner with print-ready CMYK/RGB file.",
+      "price": 250,
+      "isStartingPrice": true,
+      "enabled": true,
+      "createdAt": "2026-10-21T17:10:40.191Z",
+      "updatedAt": "2026-10-21T17:10:40.191Z"
+    },
+    {
+      "id": "srv-19",
+      "name": "Video Shooting",
+      "gujaratiName": "Video Shooting — ભાવ ચર્ચાથી",
+      "category": "long_form",
+      "description": "On-site camera shooting, gimbal videography, audio mic recording, and lighting for events across Gujarat. Price on quote.",
+      "price": 0,
+      "isStartingPrice": false,
+      "enabled": true,
+      "badge": "On Quote",
+      "createdAt": "2026-10-21T17:10:40.191Z",
+      "updatedAt": "2026-10-21T17:10:40.191Z"
+    },
+    {
+      "id": "srv-20",
+      "name": "Custom Video Editing",
+      "gujaratiName": "Custom Video Editing — ભાવ ચર્ચાથી",
+      "category": "long_form",
+      "description": "Tailored video project based on specific script, timeline, advanced 3D VFX, documentary, or commercial. Price on discussion.",
+      "price": 0,
+      "isStartingPrice": false,
+      "enabled": true,
+      "badge": "Discuss",
+      "createdAt": "2026-10-21T17:10:40.191Z",
+      "updatedAt": "2026-10-21T17:10:40.191Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "GDS-2026-93H1",
+      "customerName": "Keval Patel",
+      "customerMobile": "9909404141",
+      "serviceId": "srv-1",
+      "serviceName": "Instagram Reel Editing",
+      "agreedPrice": 100,
+      "isStartingPrice": true,
+      "priceFormatted": "₹100 થી",
+      "requirements": "Sample cinematic reel with Gujarati devotional bhajan beat sync",
+      "uploadedFiles": [],
+      "paymentMethod": "upi",
+      "paymentStatus": "unpaid",
+      "orderStatus": "order_placed",
+      "timeline": [
+        {
+          "status": "order_placed",
+          "label": "Order Placed",
+          "timestamp": "2026-10-21T17:10:46.246Z",
+          "note": "Order details and editing requirements received successfully by gurudevstudio.official."
+        }
+      ],
+      "deliveredFiles": [],
+      "createdAt": "2026-10-21T17:10:46.246Z",
+      "updatedAt": "2026-10-21T17:10:46.246Z"
+    }
+  ],
+  "adminTokens": [
+    {
+      "token": "adm_1792602653475_2idta86wmp",
+      "email": "shubhpatel909455@gmail.com",
+      "expiresAt": 1793207453475
+    }
+  ],
+  "verificationCodes": [
+    {
+      "mobile": "9909404141",
+      "code": "9716",
+      "expiresAt": 1792603246246
+    }
+  ],
+  "customerTokens": [
+    {
+      "token": "cust_1792602646246_6ul7r3ltcn",
+      "mobile": "9909404141",
+      "expiresAt": 1795194646246
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "gurudevstudio.official",
+  "description": "Premium video editing order, live tracking, and studio management platform for gurudevstudio.official Video Editing Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
